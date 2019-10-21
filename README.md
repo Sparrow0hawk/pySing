@@ -1,3 +1,12 @@
 # Experiment 1.0.0 building a Singularity container for Python
 
-No conda just python3
+Using [Singularity container system](https://singularity.lbl.gov/)
+
+No conda just python3.
+
+To run
+
+```{bash}
+./build_sing.sh
+```
+Will be prompted for sudo password.
